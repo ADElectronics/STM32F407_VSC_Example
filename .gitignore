@@ -1,0 +1,7 @@
+# Build
+/Firmware/build/*
+
+# Settings
+/Firmware/.vscode/ipch/*
+/Firmware/.vscode/.cortex-debug.peripherals.state.json
+/Firmware/.vscode/.cortex-debug.registers.state.json
